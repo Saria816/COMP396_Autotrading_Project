@@ -1,0 +1,10 @@
+{
+  "series_5": {
+    "strategy": "rsi_short",
+    "params": "rsi=7,ob=75,os=40",
+    "train_return": 6.145550000000055,
+    "valid_return": 7.153119999999991,
+    "valid_sharpe": 1.3806828930202175,
+    "valid_maxdd": -4.01613068140186
+  }
+}

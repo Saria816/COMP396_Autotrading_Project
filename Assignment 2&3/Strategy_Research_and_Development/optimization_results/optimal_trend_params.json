@@ -1,0 +1,63 @@
+{
+  "series_1": {
+    "strategy": "above_ma",
+    "params": {
+      "ma_period": 10,
+      "confirm_days": 7
+    },
+    "train_return": 39.095459999999996,
+    "valid_return": 12.060109999999957,
+    "valid_sharpe": 0.6859161324049537,
+    "valid_maxdd": -11.341146621302094
+  },
+  "series_3": {
+    "strategy": "ma_crossover",
+    "params": {
+      "fast_period": 20,
+      "slow_period": 40,
+      "atr_period": 10,
+      "atr_mult": 2.5
+    },
+    "train_return": 11.494945700000025,
+    "valid_return": 12.33261000000001,
+    "valid_sharpe": 1.8212303104631762,
+    "valid_maxdd": -5.183895421429553
+  },
+  "series_4": {
+    "strategy": "ma_crossover",
+    "params": {
+      "fast_period": 15,
+      "slow_period": 30,
+      "atr_period": 14,
+      "atr_mult": 1.5
+    },
+    "train_return": 22.126090000000033,
+    "valid_return": 46.76227999999993,
+    "valid_sharpe": 1.9407439004376534,
+    "valid_maxdd": -9.2583404436245
+  },
+  "series_6": {
+    "strategy": "breakout",
+    "params": {
+      "lookback": 25,
+      "hold_days": 20
+    },
+    "train_return": 26.021436000000065,
+    "valid_return": 23.44045400000001,
+    "valid_sharpe": 1.2882066221174062,
+    "valid_maxdd": -6.7953142496250685
+  },
+  "series_9": {
+    "strategy": "ma_crossover",
+    "params": {
+      "fast_period": 15,
+      "slow_period": 30,
+      "atr_period": 20,
+      "atr_mult": 1.5
+    },
+    "train_return": 10.679517999999977,
+    "valid_return": 7.842834250000008,
+    "valid_sharpe": 1.6191393517777053,
+    "valid_maxdd": -2.3688658868297514
+  }
+}

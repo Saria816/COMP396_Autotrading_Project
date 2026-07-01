@@ -1,0 +1,11 @@
+{
+  "Mean Z-Score": "0.179",
+  "Z-Score Std Dev": "1.338",
+  "Oversold Events (Z<-2)": 39,
+  "Overbought Events (Z>2)": 69,
+  "RSI Oversold (<30)": 101,
+  "RSI Overbought (>70)": 147,
+  "Mean Reversion Correlation": "-0.049",
+  "Mean Reversion Slope": "-0.0489",
+  "Time in Range (|Z|<1)": "41.71%"
+}

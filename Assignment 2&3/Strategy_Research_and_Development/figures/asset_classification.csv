@@ -1,0 +1,11 @@
+Series,Total_Return%,Max_DD%,Return_DD_Ratio,Volatility%,Sharpe,Vol_Label,Strategy,Reason
+series_1,69.1,-45.9,1.51,1.9,0.58,High Volatility,Trend/Momentum,Return/DD=1.51(>=1.1)
+series_2,14.3,-41.1,0.35,1.73,0.26,High Volatility,Mean Reversion,Return/DD=0.35(<1.1)
+series_3,26.6,-7.4,3.57,0.49,0.8,Low Volatility,Trend/Momentum,Return/DD=3.57(>=1.1)
+series_4,83.0,-49.3,1.68,2.77,0.57,High Volatility,Trend/Momentum,Return/DD=1.68(>=1.1)
+series_5,-23.6,-33.5,-0.7,0.57,-0.71,Medium Volatility,Short/Defensive,Negative return(-23.6%)
+series_6,47.7,-32.8,1.45,1.8,0.48,High Volatility,Trend/Momentum,Return/DD=1.45(>=1.1)
+series_7,3.4,-4.9,0.69,0.16,0.35,Low Volatility,Mean Reversion,Return/DD=0.69(<1.1)
+series_8,10.9,-10.2,1.07,0.49,0.38,Low Volatility,Mean Reversion,Return/DD=1.07(<1.1)
+series_9,16.6,-14.6,1.14,0.71,0.4,Medium Volatility,Trend/Momentum,Return/DD=1.14(>=1.1)
+series_10,30.5,-33.8,0.9,1.78,0.38,High Volatility,Mean Reversion,Return/DD=0.90(<1.1)
